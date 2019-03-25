@@ -1,0 +1,84 @@
+body{
+	background-color:#f4f4f4;
+	
+	
+}
+a:active{
+	color:black;
+}
+a:visited{
+color:black;
+}
+a:hover{
+	color:red;
+}
+ container{
+	 width:100%;
+	
+ }
+.box-1 h1{
+	color:purple;
+	font-family:sans-serif;
+	font-size:30px;
+	
+	font-style:italic;
+	Letter-spacing:0.2em;
+	
+	}
+.box-1{
+	background-color:coral;
+	width:250px;
+	border-right:5px purple solid;
+	border-left:5px purple solid;
+	border-top:5px purple solid;
+	border-bottom:5px purple solid;
+	border-width:3px;
+	border-top-style:dotted;
+	padding:4px;
+	}
+.my-form{
+	
+	padding:20px;
+	margin-top:50px;
+	
+}
+.form .form-group{
+	margin-top:50px;
+	padding-bottom:50px;
+}
+.my-form label{
+	
+	display:block;
+}
+.my-form input{
+
+	padding:10px;
+	width:100%;
+}
+.my-form input[type="submit"]{
+		
+	background-color:#333;
+	color:#fff;
+	padding:10 px 15px;
+	border:0px;
+	width :100px;
+}
+.my-form input[type="text"],.my-form textarea{
+	width:300px;
+	padding:8px;
+}
+.my-form input[type="password"],.my-form textarea{
+	width:300px;
+	padding:8px;
+}
+.my-form input[type="number"],.my-form textarea{
+	width:300px;
+	padding:8px;
+}
+.box-2
+{
+	margin-top:30px;
+}
+.my-form .button{
+	margin-top:10px;
+}
